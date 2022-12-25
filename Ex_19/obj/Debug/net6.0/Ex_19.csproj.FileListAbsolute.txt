@@ -1,0 +1,15 @@
+/home/redsorcerer/Desktop/Homework_3/Ex_19/obj/Debug/net6.0/Ex_19.csproj.AssemblyReference.cache
+/home/redsorcerer/Desktop/Homework_3/Ex_19/obj/Debug/net6.0/Ex_19.GeneratedMSBuildEditorConfig.editorconfig
+/home/redsorcerer/Desktop/Homework_3/Ex_19/obj/Debug/net6.0/Ex_19.AssemblyInfoInputs.cache
+/home/redsorcerer/Desktop/Homework_3/Ex_19/obj/Debug/net6.0/Ex_19.AssemblyInfo.cs
+/home/redsorcerer/Desktop/Homework_3/Ex_19/obj/Debug/net6.0/Ex_19.csproj.CoreCompileInputs.cache
+/home/redsorcerer/Desktop/Homework_3/Ex_19/bin/Debug/net6.0/Ex_19
+/home/redsorcerer/Desktop/Homework_3/Ex_19/bin/Debug/net6.0/Ex_19.deps.json
+/home/redsorcerer/Desktop/Homework_3/Ex_19/bin/Debug/net6.0/Ex_19.runtimeconfig.json
+/home/redsorcerer/Desktop/Homework_3/Ex_19/bin/Debug/net6.0/Ex_19.dll
+/home/redsorcerer/Desktop/Homework_3/Ex_19/bin/Debug/net6.0/ref/Ex_19.dll
+/home/redsorcerer/Desktop/Homework_3/Ex_19/bin/Debug/net6.0/Ex_19.pdb
+/home/redsorcerer/Desktop/Homework_3/Ex_19/obj/Debug/net6.0/Ex_19.dll
+/home/redsorcerer/Desktop/Homework_3/Ex_19/obj/Debug/net6.0/ref/Ex_19.dll
+/home/redsorcerer/Desktop/Homework_3/Ex_19/obj/Debug/net6.0/Ex_19.pdb
+/home/redsorcerer/Desktop/Homework_3/Ex_19/obj/Debug/net6.0/Ex_19.genruntimeconfig.cache
