@@ -19,3 +19,4 @@ while (num.Length == 5)
 }
 }
 
+Palindrom();
